@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  add.to_i = "#{num1}+#{num2}"
+  add = num1 + num2
   puts add
   add
 end
